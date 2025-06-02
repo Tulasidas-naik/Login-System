@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+.LoginSystem  {
+    width: 300px;
+    margin: 0;
+    padding: 20px;
+    justify-self: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-flow: column;
+    background-color: blueviolet;
+
+}
+
+.Registration {
+    display: flex;
+    flex-flow: column;
+    gap: 10px;
+}
+
+.Login {
+    display: flex;
+    flex-flow: column;
+    gap: 10px;
+}
